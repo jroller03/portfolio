@@ -18,7 +18,7 @@ explore and click links to learn about me
 
 Justin Roller
 justinrllr@yahoo.com
-link to my portfolio website https://jroller03.github.io/portfolio/
+link to my portfolio gh-pages https://github.com/jroller03/portfolio.git
 
 ## Technologies Used
 
