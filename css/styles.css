@@ -2,4 +2,20 @@ h2{
   display: inline-block;
   font-style: oblique;
   border: 2px solid #66cc97;
+  color: #dceeef;
+}
+
+body{
+  background-image: url("http://www.gsfdcy.com/data/img/61/1836720-night-sky-wallpaper.jpg");
+  background-size: 100%;
+}
+
+.name{
+  font-family: cursive;
+  font-size: 20px;
+}
+
+h4{
+  text-align: center;
+  color: #dceeef
 }
