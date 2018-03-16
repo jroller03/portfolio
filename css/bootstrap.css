@@ -4959,8 +4959,8 @@ a.badge:focus {
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 30px;
-  color: inherit;
-  background-color: #66cc97;
+  color: #9786ba;
+  background-color: transparent;
 }
 .jumbotron h1,
 .jumbotron .h1 {
@@ -5740,8 +5740,8 @@ button.list-group-item-danger.active:focus {
   border-color: #bce8f1;
 }
 .panel-info > .panel-heading {
-  color: #31708f;
-  background-color: #d9edf7;
+  color: #040505;
+  background-color: #5c5d8e;
   border-color: #bce8f1;
 }
 .panel-info > .panel-heading + .panel-collapse > .panel-body {
